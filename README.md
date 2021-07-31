@@ -12,6 +12,10 @@
 # 2
 - con las api de twitter creamos una base de datos llamada twitter_juegosolimpicos
 - ![image](https://user-images.githubusercontent.com/58180852/127725601-ce44e27b-2591-4851-821a-a11d995282d4.png)
-- 
+- ![image](https://user-images.githubusercontent.com/58180852/127725704-02565ef4-95aa-41f3-b6fd-f781fa27542a.png)
+- ![image](https://user-images.githubusercontent.com/58180852/127725707-07c2f548-4485-4b86-9286-78cd32aac855.png)
+- aqui vemos los datos gurdados
+- ![image](https://user-images.githubusercontent.com/58180852/127725713-57d91d26-d4e1-4b39-b3d8-e2caf606eafc.png)
+
 
 
